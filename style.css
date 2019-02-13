@@ -1,0 +1,91 @@
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+body {
+  background-attachment: fixed;
+  font-size: 22px;
+  overflow: auto;
+  width: relative;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(255, 255, 255);
+  width:85%;
+  padding-left: auto;
+  padding-right:auto;
+  margin:auto;
+}
+
+p {
+  padding-left: 50px;
+  padding-right:50px;
+}
+html {
+  height: 100%;
+  padding-left:150px;
+  padding-right:150px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: darkgray;
+}
+ul{
+  padding-left: 150px;
+  padding-right:150px;
+}
+img {
+  height: 150px;
+  width:150px;
+  vertical-align:middle;
+}
+
+.service-list {
+  list-style-type: none;
+  margin-left:0px;
+  padding-left:0px;
+  display: inline-block;
+  }
+  
+
+table{
+  padding-top:50px;
+  padding-left: 50px;
+  padding-right:50px;
+}
+td {
+  padding-left: 7.5px;
+  padding-right: 7.5px;
+}
+
+.uwpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position:center;
+  width:1000px;
+  height: auto;
+  background-color:black;
+}
+
+.uwdiv
+{
+  background-color:black;
+}

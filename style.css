@@ -595,6 +595,7 @@ a:hover {
 .main-navigation ul.nav-menu,
 .main-navigation div.nav-menu > ul {
 	display: none;
+	
 }
 .main-navigation ul.nav-menu.toggled-on,
 .menu-toggle {
@@ -1445,8 +1446,7 @@ img#wpstats {
 	}
 	.site {
 		margin: 0 auto;
-		max-width: 960px;
-		max-width: 68.571428571rem;
+		max-width: 90%;
 		overflow: hidden;
 	}
 	.site-content {
@@ -1477,7 +1477,7 @@ img#wpstats {
 		border-bottom: 1px solid #ededed;
 		border-top: 1px solid #ededed;
 		display: inline-block !important;
-		text-align: left;
+		text-align: center;
 		width: 100%;
 	}
 	.main-navigation ul {
